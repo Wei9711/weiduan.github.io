@@ -43,9 +43,9 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  # researchgate     : # URL
+  # scopus           : # URL
+  # zotero           : # URL
 
 
   # Repositories and software development
